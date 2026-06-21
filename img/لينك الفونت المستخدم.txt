@@ -6,4 +6,7 @@
 
     font-family: "DM Sans", sans-serif;
 
-بالتوفيق 
+اعدل على الكود ويسمع في الجيت هاب
+git add .
+git commit -m "fix index file"
+git push origin main
